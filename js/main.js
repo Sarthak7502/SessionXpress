@@ -114,7 +114,7 @@
 
 // Zoom link generation
 const generateZoomMeeting = () => {
-    const zoomLink = 'https://us06web.zoom.us/j/9536806829?pwd=Gbu8XkiNvCw1HbRoULPSMzyXIpgRef.1&omn=84672182565';
+    const zoomLink = 'https://us06web.zoom.us/j/9536806829?pwd=Gbu8XkiNvCw1HbRoULPSMzyXIpgRef.1&omn=89541377549';
     
     document.getElementById('zoom-link').setAttribute('data-zoom-link', zoomLink); // Store link in a data attribute
 };
